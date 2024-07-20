@@ -5,3 +5,5 @@ cd Healthether
 npm install
 nodemon index.js
 ```
+# API Documentation
+https://documenter.getpostman.com/view/21489154/2sA3kUGMsn
