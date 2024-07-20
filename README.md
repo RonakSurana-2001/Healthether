@@ -6,4 +6,6 @@ npm install
 nodemon index.js
 ```
 # API Documentation
-https://documenter.getpostman.com/view/21489154/2sA3kUGMsn
+https://documenter.getpostman.com/view/21489154/2sA3kUGMsn  
+# Environment Variables
+MONGO_URL=<MONGO_URL>
